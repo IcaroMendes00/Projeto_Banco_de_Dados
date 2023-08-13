@@ -3,7 +3,7 @@
 <hr>
 
 <p>
-<h2>O projeto tem como intuito, criar e controlar um banco de dados destinado à cinemas. O projeto foi feito como trabalho de conclusão da disciplina de Banco de Dados.</p> </h2>
+<h2>O projeto tem como intuito, criar e controlar um banco de dados destinado à cinemas. O projeto foi feito como trabalho de conclusão da disciplina de Banco de Dados.</h2>
 </p>
 <p>
 Objetivos:
