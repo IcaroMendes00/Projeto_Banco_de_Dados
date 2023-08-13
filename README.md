@@ -1,4 +1,4 @@
-<h1> Projeto Final - Banco de Dados </h1>
+<h3> Projeto Final - Banco de Dados </h3>
 
 <hr>
 
